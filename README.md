@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A android app  Template
 
 Splash screen
@@ -17,3 +18,8 @@ Demo
 
 ![Demo](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d97b90ea-aa67-485c-b001-d370cc508182)
 
+=======
+## Resources and files used
+flaticon https://www.flaticon.com/ <br>
+fontawesome https://fontawesome.com/
+>>>>>>> 222768580a452195c0060b7a36c56d31b9d63a28
