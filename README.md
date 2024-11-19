@@ -19,8 +19,12 @@
 
 ## Demo
 <div style="display: flex; justify-content: center;">
-  <img src="screenshots/demo.mp4" width="300" />
+  <a href="https://github.com/kevi-t/Templates/screenshots/demo.mp4">
+    <img src="https://github.com/kevi-t/Templates/screenshots/splash_screen.jpg" width="250" />
+  </a>
 </div>
+
+
 
 ## Resources and Libraries Used
 
