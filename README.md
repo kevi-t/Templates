@@ -1,25 +1,29 @@
-<<<<<<< HEAD
-A android app  Template
+<p align="center"><img src="screenshots/speech.png" alt="template" height="150px"></p>
 
-Splash screen
+# Android App Template
 
-![Splash screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d401cac4-bfac-4a11-9008-63906262ce2b)
+### Splash Screen
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/splash_screen.jpg" width="250" />
+</div>
 
+### Login Screen
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/screen2.jpg" width="250" />
+</div>
 
-Login Screen
+### Registration Screen
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/screen1.jpg" width="250" />
+</div>
 
-![Login screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/a600a9d7-e311-41e0-bd3a-3bec148558ba)
+## Demo
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/demo.mp4" width="300" />
+</div>
 
-Registration screen
+## Resources and Libraries Used
 
-![Register screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/c0f7b135-5b52-438e-b94c-6250ef810b32)
-
-Demo
-
-![Demo](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d97b90ea-aa67-485c-b001-d370cc508182)
-
-=======
-## Resources and files used
-flaticon https://www.flaticon.com/ <br>
-fontawesome https://fontawesome.com/
->>>>>>> 222768580a452195c0060b7a36c56d31b9d63a28
+### Resource Libraries:
+- **Lottie**: [Lottie by Airbnb](https://lottiefiles.com/)
+  - `implementation 'com.airbnb.android:lottie:5.2.0'`
