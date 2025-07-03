@@ -19,7 +19,7 @@
 
 ## Demo
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/kevi-t/Templates/raw/main/screenshots/demo.mp4">
+  <a href="https://github.com/kevi-t/Templates/screenshots/demo.mp4">
     <img src="screenshots/splash_screen.jpg" width="250" alt="Demo Video"/>
     <br>
     <strong>Click to watch demo video</strong>
