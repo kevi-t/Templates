@@ -19,10 +19,10 @@
 
 ## Demo
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/kevi-t/Templates/screenshots/demo.mp4">
-    <img src="screenshots/splash_screen.jpg" width="250" alt="Demo Video"/>
+ <a href="https://studio.youtube.com/video/SJCEROXamjo" target="_blank">
+    <img src="screenshots/splash_screen.jpg" width="320" alt="Watch demo video"/>
     <br>
-    <strong>Click to watch demo video</strong>
+    <strong>Click to watch demo on YouTube</strong>
   </a>
 
 </div>
