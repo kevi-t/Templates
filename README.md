@@ -19,10 +19,10 @@
 
 ## Demo
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/kevi-t/Templates/screenshots/demo.mp4" target="_blank">
-    <img src="https://github.com/kevi-t/Templates/screenshots/splash_screen.jpg" width="250" alt="Demo Video"/>
-    <p>Click to Watch Demo</p>
-  </a>
+ <video width="320" height="auto" autoplay muted controls>
+    <source src="screenshots/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Resources and Libraries Used
